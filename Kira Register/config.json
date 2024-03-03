@@ -1,0 +1,38 @@
+{
+    "token": "MTAxNDQ5OTE1MjczNjAzODk5Mg.G1OBFJ.pJwPTF0d1X2Ipj0AvNc1sjMuNnzJNzhbgKDdbM",
+    "prefix": ".",
+    "voiceChannelID": "1050475143937400862",
+    "sunucuID": "925412297948667926",
+    "botOwner": "755856410335510649",
+    "mongourl": "mongodb+srv://lia:1949e1949@cluster0.1z6dqk5.mongodb.net/?retryWrites=true&w=majority",
+
+    "presence": {
+        "name": "Kira 💜 "
+    },
+
+    "kanal": {
+        "tagLog": ""
+    },
+
+    "rol": {
+        "booster": "",
+        "aileRolü": ""
+    },
+
+    "kayıt": {
+        "kayıtsızID": "",
+        "erkekID": "",
+        "kızID": "",
+        "kayıtYetkiliID": "",
+
+        "kayıtchatID": "", 
+
+        "tag": ["Deneme"],
+        "etiketTag": "0000",
+        "kayıtsızNick": "• isim | yaş "
+    },
+
+    "emoji": {
+        "amblem": "925443725033873408"
+    }
+}
